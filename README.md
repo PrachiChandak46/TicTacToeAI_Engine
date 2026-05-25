@@ -1,4 +1,4 @@
-TicTacToe_AI_Multiplayer
+#TicTacToe_AI_Multiplayer
 I engineered a sophisticated Tic-Tac-Toe engine that implements the Minimax recursive algorithm to create an unbeatable AI opponent. This implementation moves beyond basic game logic by simulating every possible move combination to determine the mathematically optimal path, ensuring the AI never loses.
 
 The application’s core strength lies in its modular state management. I developed a "Time-Travel" system that captures immutable snapshots of the board state after every turn. This architecture allows users to traverse the game’s history and resume play from any previous point, demonstrating a deep understanding of data persistence and historical state tracking.
